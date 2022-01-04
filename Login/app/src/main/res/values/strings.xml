@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="hint_name">Nom complet</string>
+    <string name="login">Se connecter</string>
+    <string name="register">inscrire</string>
+    <string name="btn_link_to_register">Inscriver vous maintenant.</string>
+    <string name="btn_link_to_login">Déjà inscrit! Me connecter.</string>
+    <string name="welcome">Bienvenu</string>
+    <string name="logout">Se connecter</string>
+    <string name="change_password">Changer mot de passe</string>
+    <string name="old_password">Ancien mot de passe</string>
+    <string name="new_password">Nouveau mot de passe</string>
+</resources>
